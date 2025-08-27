@@ -1,0 +1,223 @@
+{
+  "home": "Home",
+  "exams": "Exams",
+  "news": "News",
+  "about": "About",
+  "login": "Login",
+  "signup": "Sign Up",
+  "dashboard": "Dashboard",
+  "logout": "Logout",
+
+  "hero": {
+    "slide1": {
+      "title": "Practice International Exams",
+      "desc": "Get ready for TIMSS, PISA, PIRLS, and TOEFL with AI support."
+    },
+    "slide2": {
+      "title": "AI-Powered Feedback",
+      "desc": "Instant evaluation, detailed recommendations, and progress tracking."
+    },
+    "slide3": {
+      "title": "Learn Anytime, Anywhere",
+      "desc": "Access your exams and dashboard on any device."
+    },
+    "cta": {
+      "start": "Start Practicing",
+      "learn": "Learn More"
+    }
+  },
+
+  "newsSection": {
+    "heading": "Latest News & Updates",
+    "item1": {
+      "title": "Saudi Arabia Achieves Record Score in TIMSS 2023",
+      "date": "March 12, 2025",
+      "excerpt": "Saudi students showed remarkable progress in mathematics and science in the latest TIMSS international exam results..."
+    },
+    "item2": {
+      "title": "New Strategies Announced for TOEFL Preparation",
+      "date": "March 5, 2025",
+      "excerpt": "The Ministry of Education released new guidelines and resources to help students improve their English and TOEFL readiness..."
+    },
+    "item3": {
+      "title": "PISA 2025 – What Students Should Expect",
+      "date": "February 28, 2025",
+      "excerpt": "The upcoming PISA assessments will include more questions on real-life problem solving and digital literacy..."
+    },
+    "readMore": "Read More →"
+  },
+
+  "aboutSection": {
+    "heading": "About EduPortal",
+    "description": "EduPortal is an AI-powered learning platform that helps students prepare for international exams such as TIMSS, PISA, PIRLS, and TOEFL. Our mission is to provide smart practice tools, instant feedback, and tailored recommendations to support every learner’s success.",
+    "highlights": {
+      "ai": {
+        "title": "AI Feedback",
+        "desc": "Get instant corrections and personalized recommendations."
+      },
+      "library": {
+        "title": "Exam Library",
+        "desc": "Practice with a variety of international exam formats."
+      },
+      "progress": {
+        "title": "Progress Tracking",
+        "desc": "Monitor your improvement with detailed reports."
+      },
+      "anywhere": {
+        "title": "Anytime, Anywhere",
+        "desc": "Access your dashboard and exams on all devices."
+      }
+    }
+  },
+
+  "stats": {
+    "heading": "Platform Statistics",
+    "subheading": "Users, exams, and performance insights",
+    "totalUsers": {
+      "label": "Total Users",
+      "hint": "All registered learners"
+    },
+    "totalExams": {
+      "label": "Total Exams",
+      "hint": "All attempts recorded"
+    },
+    "avgScore": {
+      "label": "Average Score",
+      "hint": "Across all exams"
+    },
+    "passRate": {
+      "label": "Pass Rate",
+      "hint": "Score ≥ 50"
+    },
+    "charts": {
+      "byType": "Exams by Type",
+      "byGrade": "Average Score by Grade"
+    }
+  },
+
+  "exploreExams": {
+    "heading": "Ready to test your skills?",
+    "desc": "Practice international exams like TIMSS, PISA, PIRLS and TOEFL with instant AI feedback and recommendations.",
+    "cta": "Explore Exams →"
+  },
+  "footer": {
+    "desc": "AI-powered platform to help students practice and prepare for international exams like TIMSS, PISA, PIRLS, and TOEFL.",
+    "quickLinks": "Quick Links",
+    "exams": "Exams",
+    "contact": "Contact Us",
+    "copyright": "All rights reserved."
+  },
+  "dashboardSection": {
+    "welcome": "Welcome back, {{name}}! 🎓",
+    "stats": {
+      "totalExams": "Total Exams",
+      "passed": "Passed",
+      "averageScore": "Average Score"
+    },
+    "recentExams": "Recent Exams",
+    "exam": "Exam",
+    "score": "Score",
+    "status": "Status",
+    "passed": "Passed",
+    "failed": "Failed",
+    "startExam": "Start New Exam →",
+    "loading": "Loading dashboard...",
+    "error": "Failed to load dashboard data."
+  },
+  "exam": {
+    "loading": "Loading exam...",
+    "timeLeft": "⏳ Time Left",
+    "question": "Q{{index}}: {{question}}",
+    "previous": "Previous",
+    "next": "Next",
+    "submit": "Submit",
+    "finished": "🎉 Exam Finished!",
+    "score": "Your Score: {{score}}%",
+    "retry": "Retry Exam",
+    "back": "Back to Exams",
+    "recommendation": {
+      "excellent": "🌟 Excellent work! You mastered this subject.",
+      "good": "👍 Good job! Review a few topics to improve further.",
+      "practice": "📘 Keep practicing. Focus on weak areas and retry."
+    }
+  },
+  "examSettings": {
+    "title": "Choose Exam Settings",
+    "examType": "Exam Type (e.g., TIMSS, PISA)",
+    "grade": "Grade (e.g., 4, 8, University)",
+    "subject": "Subject (e.g., Math, Science, English)",
+    "start": "Start Exam",
+    "error": "Unable to start exam. Please try again.",
+    "failed": "Exam generation failed: {{msg}}",
+    "loading": "Generating your exam..."
+  },
+
+  "loading": "Loading...",
+  "homePage": {
+    "welcome": "Welcome to EduPortal",
+    "description": "Learn and practice with international exams like TIMSS, PISA, PIRLS, and TOEFL."
+  },
+
+  "signupForm": {
+    "title": "Create Your Account",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "age": "Age",
+    "gender": "Gender",
+    "country": "Country",
+    "school": "School",
+    "grade": "Grade",
+    "preferredExams": "Preferred Exams",
+    "submit": "Sign Up",
+    "alreadyAccount": "Already have an account?",
+    "login": "Login",
+    "placeholders": {
+      "fullName": "Enter your full name",
+      "email": "Enter your email",
+      "password": "Enter password",
+      "confirmPassword": "Confirm password",
+      "age": "Age",
+      "gender": "Select Gender",
+      "country": "Country",
+      "school": "School",
+      "grade": "Grade"
+    },
+    "genders": {
+      "male": "Male",
+      "female": "Female"
+    },
+    "exams": {
+      "math": "Math",
+      "science": "Science",
+      "english": "English"
+    },
+    "success": "✅ Account created successfully!",
+    "errors": {
+      "passwordMismatch": "❌ Passwords do not match!",
+      "serverError": "❌ Error: {{msg}}",
+      "connection": "❌ Failed to connect to backend"
+    }
+  },
+  "loginForm": {
+    "title": "Welcome Back",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot Password?",
+    "submit": "Login",
+    "loading": "Logging in...",
+    "noAccount": "Don’t have an account?",
+    "signup": "Sign up",
+    "success": "✅ Login successful! Redirecting...",
+    "errors": {
+      "invalid": "❌ Invalid email or password",
+      "connection": "❌ Something went wrong. Please try again."
+    },
+    "placeholders": {
+      "email": "Enter your email",
+      "password": "Enter your password"
+    }
+  }
+}
